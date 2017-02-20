@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 关于作者
-permalink: /books/
+permalink: /me/
 ---
 
 * content
