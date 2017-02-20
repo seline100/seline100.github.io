@@ -8,65 +8,27 @@ permalink: /reference/
 {:toc}
 
 
-走向架构师之路
+[曾健生的专栏]
 =====================
-[走向架构师之路](http://blog.csdn.net/cutesource/article/details/4901506)
+曾健生是个人比较喜欢的开发者，出版《App后台开发运维和架构实践》，对于App后台架构有很深入的研究和实践
+[http://blog.csdn.net/newjueqi](http://blog.csdn.net/newjueqi)
 
-HTTP协议详解
+[鸟哥的linux私房菜]
 =====================
-[HTTP协议详解](http://www.jmarshall.com/easy/http/)
+鸟哥的linux私房菜,提供Linux系统知识和各种服务器优化知识 
+[http://linux.vbird.org/](http://linux.vbird.org/)
 
-Axis 2.0的入门
+[进击的程序员]
 =====================
-[曹胜欢][http://blog.csdn.net/csh624366188/article/details/8362696](http://blog.csdn.net/csh624366188/article/details/8362696)
+由《老罗的Android之旅》的作者，Android研究大牛 罗升阳 开发的个人博客，介绍了各种Android底层知识
+[http://0xcc0xcd.com](http://0xcc0xcd.com)
 
-高爽|Coder 
+[AndroidDevTools]
 =====================
-这个人的博客对java底层的东西研究比较深入。
-[http://blog.csdn.net/ghsau/article/details/20395681](http://blog.csdn.net/ghsau/article/details/20395681)
+个人觉得国内最好的Android技术支持网站，提供墙内的工具下载和指导
+[http://www.androiddevtools.cn/](http://www.androiddevtools.cn/)
 
-[一线码农]
+[菜鸟教程]
 =====================
-算法入门和分布式缓存入门
-[http://www.cnblogs.com/huangxincheng/archive/2011/11/14/2249046.html](http://www.cnblogs.com/huangxincheng/archive/2011/11/14/2249046.html)
-
-[通向架构师的道路]
-=====================
-说实话没仔细看过这些博客，纯粹被标题吸引
-[http://blog.csdn.net/lifetragedy](http://blog.csdn.net/lifetragedy)
-http://blog.csdn.net/lifetragedy
-
-[冯立彬的博客]
-=====================
-话说这哥们是个大牛，以前看过一些文章。
-[http://blog.csdn.net/fenglibing](http://blog.csdn.net/fenglibing)
-
-[汪海的实验室]
-=====================
-一个14年毕业的学生，差距啊！
-[http://blog.csdn.net/pleasecallmewhy/article/details/8923725](http://blog.csdn.net/pleasecallmewhy/article/details/8923725)
-
-[Byvoid]
-=====================
-Linux中文输入法，node.js开发指南的原作者。14年大学本科清华毕业
-[https://www.byvoid.com/](https://www.byvoid.com/)
-
-[rowen的专栏]
-=====================
-数据挖掘的基础入门
-[http://blog.csdn.net/luowen3405/article/details/6331763](http://blog.csdn.net/luowen3405/article/details/6331763)
-
-[淘宝团队的博客]
-=====================
-淘宝团队的积累
-[http://www.searchtb.com/](http://www.searchtb.com/)
-
-[axman]
-=====================
-多线程相关写的比较好
-[http://blog.csdn.net/axman/article/category/894625](http://blog.csdn.net/axman/article/category/894625)
-
-[旺仔专栏]
-=====================
-Windows下FFmpeg快速入门
-[http://blog.csdn.net/hemingwang0902/article/details/4382429](http://blog.csdn.net/hemingwang0902/article/details/4382429)
+各种热门技术的技术手册并提供很好的工具集
+[http://www.runoob.com/](http://www.runoob.com/)

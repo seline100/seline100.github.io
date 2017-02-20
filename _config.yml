@@ -6,9 +6,9 @@ url: http://www.linkorz.xyz
 resume_site: http://www.linkorz.xyz/Resume.io/
 github: https://github.com/seline100/
 baseurl: ""
-description: Actually, less is more!
+description: 欢迎来到梁小林的博客！
 meta_description: 梁小林;个人博客;求知若饥,虚心若愚；
-motto: It's our wits that make us men.
+motto: 求知若饥,虚心若愚。
 banner: 求知若饥,虚心若愚。
 
 #permalink: /:categories/:year/:month/:day/:title/
@@ -29,7 +29,7 @@ FB:
     duoshuo:
         short_name : seline100
     disqus :
-        short_name : freudkang
+        short_name : link
     # facebook :
     #   appid : 123
     #   num_posts: 5
