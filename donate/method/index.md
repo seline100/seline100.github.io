@@ -15,8 +15,7 @@ permlink: /method
 <hr>
 您可以选择手机支付宝扫一扫
 
-<img src="{{ '/styles/images/zhifubao.jpg' | prepend: site.baseurl }}" alt="支付宝二维码付款给liangxl" width="310" />
-
+![支付宝二维码付款给liangxl]({{ '/styles/images/zhifubao.jpg' | prepend: site.baseurl }})
 <br>
 <br>
 
