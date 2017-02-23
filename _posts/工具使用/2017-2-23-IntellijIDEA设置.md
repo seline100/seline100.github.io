@@ -3,7 +3,7 @@ layout: post
 title:  IntelliJ IDEA上手设置
 date:   2017-02-23 22:59:01 +0800
 categories: 工具使用
-tag: IntelliJ AndroidStudio
+tag: IntelliJ|AndroidStudio
 ---
 
 * content
