@@ -22,10 +22,10 @@ AppCompat | Data Binding | DownLoadManager|Animation & transitions
 Android KTX | LifeCycles | Media&Playback|Auto
 Mutidex | LiveData|Notifications|Emoji
 Test | Navigation|Permissions|Fragment
-| | Paging|Sharing|Layout
-|| Room|Slices|Palette
-|| ViewModel||TV
-||WorkManager||WearOsByGoogle
+| Paging|Sharing|Layout
+| Room|Slices|Palette
+| ViewModel||TV
+|WorkManager||WearOsByGoogle
 
 这块预计会被安排为一个系列计划，此计划会从国庆开始，然后预计2018年底或2019初计划完成。
 
