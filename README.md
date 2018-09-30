@@ -11,15 +11,6 @@
 使用
 ====================================
 
-下载
-------------------------------------
-
-使用git从[LessOrMore](https://github.com/luoyan35714/LessOrMore.git)主页下载项目
-
-``` bash
-git clone https://github.com/luoyan35714/LessOrMore.git
-```
-
 配置
 ------------------------------------
 
@@ -39,11 +30,11 @@ github: github地址
 github_username: github用户名称
 FB:
   comments :
-    provider : duoshuo
+    provider : xxxxxx
     duoshuo:
-        short_name : 多说账户
+        short_name : xxxxxxx
     disqus :
-        short_name : Disqus账户
+        short_name : xxxxxxx
 ```
 
 如何写文章
